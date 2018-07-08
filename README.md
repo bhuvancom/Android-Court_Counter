@@ -1,2 +1,2 @@
 # Court_Counter
-Hey there I wrote this after joining Udacity Android UserInput class.
+Hey there, I made this project after joining Udacity Android UserInput class.
